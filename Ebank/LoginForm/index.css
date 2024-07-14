@@ -1,0 +1,11 @@
+.main-con {
+  display: flex;
+}
+.input-con {
+  display: flex;
+  align-items: center;
+}
+.form-con {
+  display: flex;
+  flex-direction: column;
+}
